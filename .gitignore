@@ -1,0 +1,5 @@
+# Ignorar archivos de logs y otros innecesarios
+*.log
+firebase-debug.log*
+.firebase/
+node_modules/
