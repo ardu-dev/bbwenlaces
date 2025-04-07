@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "bbwenlaces",
     "public": "Public",
     "ignore": [
       "firebase.json",
